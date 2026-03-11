@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.firebaseandroid'
+    namespace 'com.uniandes.sport'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.firebaseandroid"
+        applicationId "com.uniandes.sport"
         minSdk 21
         targetSdk 33
         versionCode 1
